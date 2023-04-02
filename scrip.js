@@ -5,11 +5,11 @@ function CambiaMsj() {
 setTimeout(CambiaMsj,12000)
 
 setTimeout(function() {
-    alert(" Tu Familia te ha deceado un Feliz Cumpleaños ❤️") 
+    alert(" Tu Familia te ha deseado un Feliz Cumpleaños ❤️") 
 }, 14100)
 
 setTimeout(function() {
-    alert(" Te deseamos que la pases bien hoy en tu dia🙈😊")
+    alert(" Te deseamos que la pases bien hoy en tu día🙈😊")
 }, 14100)
 
 setTimeout(function() {
@@ -17,7 +17,7 @@ setTimeout(function() {
 }, 14100)
 
 setTimeout(function() {
-    alert("Tu vieja, la mas querida 🙈😚❤️")
+    alert("Tu vieja, la más querida 🙈😚❤️")
 }, 14100)
 
 setTimeout(function() {
@@ -25,7 +25,7 @@ setTimeout(function() {
 }, 14100)
 
 setTimeout(function() {
-    alert("Tu bolson 💪😁")
+    alert("Tu bolsón 💪😁")
 }, 14100)
 
 setTimeout(function() {
@@ -37,7 +37,7 @@ setTimeout(function() {
 }, 14100)
 
 setTimeout(function() {
-    alert("Feliz Cumpleaños Campeon!! ☺🥳🎉🎂🤞")
+    alert("Feliz Cumpleaños Campeón!! ☺🥳🎉🎂🤞")
 }, 14100)
 
 setTimeout(function() {
